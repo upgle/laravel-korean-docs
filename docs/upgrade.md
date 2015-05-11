@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "업그레이드 가이드(Upgrade Guide)"
+title: "업그레이드 가이드(Upgrade Guide)2"
 permalink: /docs/5.0/upgrade/
 ---
 
-# 업그레이드 가이드(Upgrade Guide)
+# 업그레이드 가이드(Upgrade Guide)2
 
 - [Upgrading To 5.0.16](#upgrade-5.0.16)
 - [Upgrading To 5.0 From 4.2](#upgrade-5.0)
